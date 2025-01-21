@@ -1,2 +1,2 @@
 # Rainfall-Prediction-app
-Created a simple rainfall prediction app, using Pandas, Numpy, Scikit learn and visualized through Matplotlib and Seaborn.
+Precipitation Probability App: Designed and developed a Python-based rainfall prediction application using machine learning to analyze weather patterns and predict precipitation. Implemented data preprocessing, feature engineering, and model training to enhance prediction accuracy and reliability.
